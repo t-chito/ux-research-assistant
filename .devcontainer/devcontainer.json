@@ -28,5 +28,6 @@
         }
       }
     }
-  }
+  },
+  "postStartCommand": "poetry shell"
 }
