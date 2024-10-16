@@ -14,7 +14,8 @@
         "ms-python.mypy-type-checker",
         "KevinRose.vsc-python-indent",
         "njpwerner.autodocstring",
-        "VisualStudioExptTeam.vscodeintellicode"
+        "VisualStudioExptTeam.vscodeintellicode",
+        "esbenp.prettier-vscode"
       ],
       "settings": {
         "[python]": {

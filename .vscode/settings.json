@@ -1,0 +1,6 @@
+{
+  "workbench.editor.enablePreview": false,
+  "diffEditor.experimental.useTrueInlineView": false,
+  "diffEditor.useInlineViewWhenSpaceIsLimited": false,
+  "editor.formatOnSave": true
+}
